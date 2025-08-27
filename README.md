@@ -27,6 +27,5 @@ MIT License
 ---
 
 **Contact:**  
-abushahed490@gmail.com
-Your Name - your.email@example.com  
-[GitHub](https://github.com/yourprofile)  
+shahed
+abushahed490@gmail.com  
